@@ -2457,5 +2457,3 @@ https://v3.playerlatino.live/stream/m3u8/276
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 *******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
 *********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
-https://iptv-org.github.io/iptv/countries/mx.m3u
-http://clubtv.link/iptv/mxpremium.m3u
