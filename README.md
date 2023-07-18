@@ -528,9 +528,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-med
 #EXTINF:0, 216 | Azteca Mundo
 #EXTVLCOPT:network-caching=1000
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=976532747&_cdn_timestamp=1689911041&_cdn_token=0c31bf332d50d13d145ec57c6e55f5cdcbd555fd
-#EXTINF:0, 220 | Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=976534323&_cdn_timestamp=1689911080&_cdn_token=2de1785274d5aaa99728fcdb04a142db653ce9f3
 #EXTINF:0, 227 | Liga 1 Max
 #EXTVLCOPT:network-caching=1000
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92233.m3u8
@@ -618,6 +615,11 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-med
 #EXTINF:60,DISNEYCHANNEL
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=976575531&_cdn_timestamp=1689912157&_cdn_token=781dfb7f04e0d0e67ae145ffc8fcde80294237f5
+#EXTINF:8,5003 DISCOVERY CHANEL
+http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:0, 220 | Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=976534323&_cdn_timestamp=1689911080&_cdn_token=2de1785274d5aaa99728fcdb04a142db653ce9f3
 #EXTINF:0, 317 | Discovery Science
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=976576187&_cdn_timestamp=1689912175&_cdn_token=792ed5081091e0a49eb8e6faaace4b4736861856
