@@ -617,6 +617,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-med
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=976575531&_cdn_timestamp=1689912157&_cdn_token=781dfb7f04e0d0e67ae145ffc8fcde80294237f5
 #EXTINF:8,5003 DISCOVERY CHANEL
 http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:-1,5013 Discovery TURBO
+http://190.90.252.200:16001/play/a00e/index.m3u8
 #EXTINF:0, 220 | Discovery Home & Health
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=976534323&_cdn_timestamp=1689911080&_cdn_token=2de1785274d5aaa99728fcdb04a142db653ce9f3
