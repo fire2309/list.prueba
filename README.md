@@ -103,20 +103,6 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0,TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:0,ViX Cine Club (720p)
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:0,ViX Familia (720p)
-https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
-#EXTINF:0,ViX Jajaja (1080p)
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:0,ViX Lo Mejor De La Liga MX (720p)
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:0,ViX Novelas de Oro (720p)
-https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
-#EXTINF:0,ViX Novelas de Romance (720p)
-https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
-#EXTINF:0,ViX Parejas (1080p)
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 #EXTINF:60,Moovi Mex
 #EXTVLCOPT:network-caching=1000
 https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
