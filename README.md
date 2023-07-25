@@ -2,7 +2,7 @@
 #EXTINF:30, LAS ESTRELLAS MX
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0, Canal 5
+#EXTINF:-1, Canal 5
 http://new-pro.tv:8080/99622282/etbVXafU6f/318839
 #EXTINF:0, 4 GDL
 #EXTVLCOPT:network-caching=1000
