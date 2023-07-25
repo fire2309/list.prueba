@@ -2,6 +2,8 @@
 #EXTINF:30, LAS ESTRELLAS MX
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0, Canal 5
+http://new-pro.tv:8080/99622282/etbVXafU6f/318839
 #EXTINF:0, 4 GDL
 #EXTVLCOPT:network-caching=1000
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
@@ -617,35 +619,32 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-med
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=976575531&_cdn_timestamp=1689912157&_cdn_token=781dfb7f04e0d0e67ae145ffc8fcde80294237f5
 #EXTINF:8,5003 DISCOVERY CHANEL
 http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL (MX)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27984
 #EXTINF:-1,5013 Discovery TURBO
 http://190.90.252.200:16001/play/a00e/index.m3u8
-#EXTINF:0, 220 | Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=976534323&_cdn_timestamp=1689911080&_cdn_token=2de1785274d5aaa99728fcdb04a142db653ce9f3
-#EXTINF:0, 317 | Discovery Science
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=976576187&_cdn_timestamp=1689912175&_cdn_token=792ed5081091e0a49eb8e6faaace4b4736861856
+#EXTINF:0,DISCOVERY H&H (MX)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27986
+#EXTINF:0,DISCOVERY ID (MX)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27987
 #EXTINF:0, 318 | Discovery Turbo
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=976576971&_cdn_timestamp=1689912194&_cdn_token=f0cdfd3e8c80e2213f91263251770250c510a74e
+#EXTINF:0,Latin: Discovary Science
+http://new-pro.tv:8080/99622282/etbVXafU6f/318832
 #EXTINF:0, 319 | Discovery World
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0tc/index.m3u8
 #EXTINF:0, 320 | Discovery Theater
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0sr/index.m3u8
-#EXTINF:0, 321 | Animal Planet
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=976577915&_cdn_timestamp=1689912214&_cdn_token=470221b57ef9240386134b669bf51fc51e049d83
+#EXTINF:0,ANIMAL PLANET (MX)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27971
 #EXTINF:0, 322 | National Geographic
 #EXTVLCOPT:network-caching=1000
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=976578547&_cdn_timestamp=1689912228&_cdn_token=9490173cf60a7a816dc7eb9af68b0a7c77ea4edc
-#EXTINF:0, 323 | History
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=976580915&_cdn_timestamp=1689912267&_cdn_token=de3276ef50cbf3079055d4dca407eef45b6f09d5
-#EXTINF:0, 324 | History 2
-#EXTVLCOPT:network-caching=1000
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=976581227&_cdn_timestamp=1689912274&_cdn_token=4b8bb02cff26faaa99ce4157fd9fd61663c75cae
+#EXTINF:0,HISTORY (MX)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28022
 #EXTINF:0, 325 | Love Nature
 #EXTVLCOPT:network-caching=1000
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=976583323&_cdn_timestamp=1689912311&_cdn_token=38afb9c5ce270728f623cadf044388708d9b9a12
