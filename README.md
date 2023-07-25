@@ -614,24 +614,39 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/BANDAMAX/20-hls/live-media.m3
 #EXTINF:0, 300 | Telehit
 #EXTVLCOPT:network-caching=1000
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=976573667&_cdn_timestamp=1689912105&_cdn_token=2d0f34d64a16154839fa5c1af09f0e581ea62b1d
-#EXTINF:60,DISNEYCHANNEL
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=976575531&_cdn_timestamp=1689912157&_cdn_token=781dfb7f04e0d0e67ae145ffc8fcde80294237f5
 #EXTINF:8,5003 DISCOVERY CHANEL
 http://190.90.252.200:16001/play/a04b/index.m3u8
-#EXTINF:0,DISCOVERY CHANNEL (MX)
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27984
+#EXTINF:60,Discovery Channel Mx
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/639
+#EXTINF:-1,DISCOVERY CHANNEL HD CHILE
+http://179.51.169.254:7000/play/a01f
 #EXTINF:-1,5013 Discovery TURBO
 http://190.90.252.200:16001/play/a00e/index.m3u8
-#EXTINF:0,DISCOVERY H&H (MX)
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27986
+#EXTINF:60, Discovery H&H MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/24
+#EXTINF:8,DISCOVERY HOME & HEALTH CHILE
+http://187.189.125.28:8000/play/a053/index.m3u8
 #EXTINF:0,DISCOVERY ID (MX)
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27987
 #EXTINF:0, 318 | Discovery Turbo
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=976576971&_cdn_timestamp=1689912194&_cdn_token=f0cdfd3e8c80e2213f91263251770250c510a74e
-#EXTINF:0,Latin: Discovary Science
-http://new-pro.tv:8080/99622282/etbVXafU6f/318832
+#EXTINF:-1,DISCOVERY SCIENCE HD CHILE
+http://179.51.169.254:7000/play/a01h
+#EXTINF:0, Discovery SCI
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/26
 #EXTINF:0, 319 | Discovery World
 #EXTVLCOPT:network-caching=1000
 http://181.189.243.254:8000/play/a0tc/index.m3u8
@@ -645,12 +660,15 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27971
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=976578547&_cdn_timestamp=1689912228&_cdn_token=9490173cf60a7a816dc7eb9af68b0a7c77ea4edc
 #EXTINF:0,HISTORY (MX)
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28022
-#EXTINF:0, 325 | Love Nature
+#EXTINF:0, Nat Geo
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=976583323&_cdn_timestamp=1689912311&_cdn_token=38afb9c5ce270728f623cadf044388708d9b9a12
-#EXTINF:0, 326 | Documentales E
 #EXTVLCOPT:network-caching=1000
-https://stream.plixitv.live/docue/docue/playlist.m3u8
-#EXTINF:0, 327 | Documentales E +
+https://v3.playerlatino.live/stream/m3u8/76
+#EXTINF:0, Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://stream.plixitv.live/docue2/docue2/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/77
