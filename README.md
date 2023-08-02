@@ -3,6 +3,11 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0, Canal 5
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/14
 #EXTINF:0, 4 GDL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -283,11 +288,6 @@ https://v3.playerlatino.live/stream/m3u8/5
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:0, Canal 5
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
 #EXTINF:0, Canal Once
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -535,7 +535,6 @@ https://v3.playerlatino.live/stream/m3u8/97
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/98
-
 #EXTINF:0, Univision
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -746,3 +745,167 @@ https://v3.playerlatino.live/stream/m3u8/509
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/137
+#EXTINF:8, DISCOVERY CHANEL
+#EXTVLCOPT:network-caching=1000
+http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:60, Discovery Channel Mx
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/639
+#EXTINF:0, DISCOVERY CHANNEL HD CHILE
+#EXTVLCOPT:network-caching=1000
+http://179.51.169.254:7000/play/a01f
+#EXTINF:0, Discovery TURBO
+#EXTVLCOPT:network-caching=1000
+http://190.90.252.200:16001/play/a00e/index.m3u8
+#EXTINF:60, Discovery H&H MX
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/24
+#EXTINF:8, DISCOVERY HOME & HEALTH CHILE
+#EXTVLCOPT:network-caching=1000
+http://187.189.125.28:8000/play/a053/index.m3u8
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=976576971&_cdn_timestamp=1689912194&_cdn_token=f0cdfd3e8c80e2213f91263251770250c510a74e
+#EXTINF:0, DISCOVERY SCIENCE HD CHILE
+#EXTVLCOPT:network-caching=1000
+http://179.51.169.254:7000/play/a01h
+#EXTINF:0, Discovery SCI
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/26
+#EXTINF:0, Discovery World
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0tc/index.m3u8
+#EXTINF:0, Discovery Theater
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.189.243.254:8000/play/a0sr/index.m3u8
+#EXTINF:0, ANIMAL PLANET (MX)
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27971
+#EXTINF:0, National Geographic
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=976578547&_cdn_timestamp=1689912228&_cdn_token=9490173cf60a7a816dc7eb9af68b0a7c77ea4edc
+#EXTINF:0, Nat Geo
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/76
+#EXTINF:0, Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/77
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/3
+#EXTINF:0, Animal Planet OP2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/633
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:0, Discovery Channel op2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/639
+#EXTINF:0, Discovery Channel Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/741
+#EXTINF:0, Discovery Civilization
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/23
+#EXTINF:0, Discovery H&H
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/24
+#EXTINF:0, Discovery H&H Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/742
+#EXTINF:0, Discovery SCI
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/26
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/28
+#EXTINF:0, Discovery World
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/187
+#EXTINF:0, Distrito Comedia
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/32
+#EXTINF:0, H2
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:0, H2 Sur
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/760
+#EXTINF:0, History Channel
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:0, Investigation Discovery
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/68
+#EXTINF:0, Nat Geo
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/76
+#EXTINF:0, Nat Geo Kids
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/412
+#EXTINF:0, Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/77
