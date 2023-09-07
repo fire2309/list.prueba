@@ -273,99 +273,65 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:0,AQUI EMPIEZA EL CAOS
 AQUI%20EMPIEZA%20EL%20CAOS
-#EXTINF:23,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a00m/index.m3u8
-#EXTINF:24,Cine Latino
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:24,CineCanal
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a02f/index.m3u8
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a032/index.m3u8
-#EXTINF:0,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01k/index.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:0,HISTORY 2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:24,DISCOVERY THEATHER HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:24,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:23,Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:0,Home & Health HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:0,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a026/index.m3u8
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:0,E! Entertairment HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a00n/index.m3u8
-#EXTINF:23,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:0,HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03u/index.m3u8
-#EXTINF:0,HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03w/index.m3u8
-#EXTINF:0,HBO2 HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0,MTV
+http://181.78.85.154:2022/play/a020/index.m3u8
+#EXTINF:8,AE Mundo
+http://181.78.85.154:2022/play/a03a/index.m3u8
+#EXTINF:0,Cinecanal
+http://181.78.85.154:2022/play/a01x/index.m3u8
+#EXTINF:0,Cinecanal HD
+http://181.78.85.154:2022/play/a05i/index.m3u8
+#EXTINF:0,Cinemax
+http://181.78.85.154:2022/play/a00s/index.m3u8
+#EXTINF:0,FX
+http://181.78.85.154:2022/play/a00w/index.m3u8
+#EXTINF:0,HBO 2 HD
+http://181.78.85.154:2022/play/a05q/index.m3u8
+#EXTINF:0,HBO HD
+http://181.78.85.154:2022/play/a05l/index.m3u8
 #EXTINF:0,Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:0,SONY HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:0,SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a02o/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a048/index.m3u8
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a013/index.m3u8
-#EXTINF:0,TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01m/index.m3u8
-#EXTINF:0,TVE HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04r/index.m3u8
-#EXTINF:0,Telemundo HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a00r/index.m3u8
-#EXTINF:0,TyCSports HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:0,Universal cinema HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01t/index.m3u8
-#EXTINF:0,Univision HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:0,WARNER HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a049/index.m3u8
+http://181.78.85.154:2022/play/a05n/index.m3u8
+#EXTINF:0,STAR CHANNEL
+http://181.78.85.154:2022/play/a022/index.m3u8
+#EXTINF:0,STAR TVE HD
+http://181.78.85.154:2022/play/a05p/index.m3u8
+#EXTINF:0,Sony
+http://181.78.85.154:2022/play/a00t/index.m3u8
+#EXTINF:0,Space
+http://181.78.85.154:2022/play/a00v/index.m3u8
+#EXTINF:0,Studio Universal HD
+http://181.78.85.154:2022/play/a05o/index.m3u8
+#EXTINF:0,SyFy
+http://181.78.85.154:2022/play/a027/index.m3u8
+#EXTINF:0,TLC
+http://181.78.85.154:2022/play/a03b/index.m3u8
+#EXTINF:0,TNT
+http://181.78.85.154:2022/play/a023/index.m3u8
+#EXTINF:0,Universal
+http://181.78.85.154:2022/play/a01y/index.m3u8
+#EXTINF:0,ViaX
+http://181.78.85.154:2022/play/a031/index.m3u8
+#EXTINF:0,Warner
+http://181.78.85.154:2022/play/a035/index.m3u8
+#EXTINF:0,Zoom
+http://181.78.85.154:2022/play/a044/index.m3u8
+#EXTINF:0,Animal Planet
+http://181.78.85.154:2022/play/a034/index.m3u8
+#EXTINF:0,Animal Planet HD
+http://181.78.85.154:2022/play/a05r/index.m3u8
+#EXTINF:0,Discovery Channel
+http://181.78.85.154:2022/play/a05d/index.m3u8
+#EXTINF:0,HomeandHealth
+http://181.78.85.154:2022/play/a01d/index.m3u8
+#EXTINF:0,Discovery ID
+http://181.78.85.154:2022/play/a01a/index.m3u8
+#EXTINF:0,Discovery Turbo
+http://181.78.85.154:2022/play/a014/index.m3u8
+#EXTINF:0,Discovery World HD
+http://181.78.85.154:2022/play/a05h/index.m3u8
+#EXTINF:0,History Channel
+http://181.78.85.154:2022/play/a01w/index.m3u8
+#EXTINF:0,Nat Geo
+http://181.78.85.154:2022/play/a01v/index.m3u8
+#EXTINF:0,Nat Geo HD
+http://181.78.85.154:2022/play/a05g/index.m3u8
