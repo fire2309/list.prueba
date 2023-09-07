@@ -4,7 +4,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0, Canal 5
+#EXTINF:62, Canal 5
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
@@ -315,20 +315,32 @@ http://181.78.85.154:2022/play/a031/index.m3u8
 http://181.78.85.154:2022/play/a035/index.m3u8
 #EXTINF:0,Zoom
 http://181.78.85.154:2022/play/a044/index.m3u8
-#EXTINF:0,Animal Planet
+#EXTINF:8,Animal Planet
 http://181.78.85.154:2022/play/a034/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://181.78.85.154:2022/play/a05r/index.m3u8
 #EXTINF:0,Discovery Channel
 http://181.78.85.154:2022/play/a05d/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0,HomeandHealth
 http://181.78.85.154:2022/play/a01d/index.m3u8
+#EXTINF:0,Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:0,Discovery ID
 http://181.78.85.154:2022/play/a01a/index.m3u8
-#EXTINF:0,Discovery Turbo
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:8,Discovery Turbo
 http://181.78.85.154:2022/play/a014/index.m3u8
-#EXTINF:0,Discovery World HD
+#EXTINF:8,Discovery World HD
 http://181.78.85.154:2022/play/a05h/index.m3u8
+#EXTINF:0,DISCOVERY THEATHER HD
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:0,History Channel
 http://181.78.85.154:2022/play/a01w/index.m3u8
 #EXTINF:0,Nat Geo
