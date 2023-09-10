@@ -273,77 +273,85 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:0,AQUI EMPIEZA EL CAOS
 AQUI%20EMPIEZA%20EL%20CAOS
-#EXTINF:0,MTV
-http://181.78.85.154:2022/play/a020/index.m3u8
-#EXTINF:8,AE Mundo
-http://181.78.85.154:2022/play/a03a/index.m3u8
-#EXTINF:0,Cinecanal
-http://181.78.85.154:2022/play/a01x/index.m3u8
-#EXTINF:0,Cinecanal HD
-http://181.78.85.154:2022/play/a05i/index.m3u8
-#EXTINF:0,Cinemax
-http://181.78.85.154:2022/play/a00s/index.m3u8
-#EXTINF:0,FX
-http://181.78.85.154:2022/play/a00w/index.m3u8
-#EXTINF:0,HBO 2 HD
-http://181.78.85.154:2022/play/a05q/index.m3u8
-#EXTINF:0,HBO HD
-http://181.78.85.154:2022/play/a05l/index.m3u8
-#EXTINF:0,Paramount HD
-http://181.78.85.154:2022/play/a05n/index.m3u8
-#EXTINF:0,STAR CHANNEL
-http://181.78.85.154:2022/play/a022/index.m3u8
-#EXTINF:0,STAR TVE HD
-http://181.78.85.154:2022/play/a05p/index.m3u8
-#EXTINF:0,Sony
-http://181.78.85.154:2022/play/a00t/index.m3u8
+#EXTINF:8,A&E HD-IK-1605-OK
+http://191.52.214.5:8000/play/a01s/index.m3u8
+#EXTINF:8,AMC HD-IK-1633-OK
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:0,AZ Cinema HD-IK-1628-OK
+http://191.52.214.5:8000/play/a035/index.m3u8
+#EXTINF:0,Animal Planet HD-IK1601-OK
+http://191.52.214.5:8000/play/a038/index.m3u8
+#EXTINF:0,Cinema Platino HD
+http://191.52.214.5:8000/play/a064/index.m3u8
+#EXTINF:0,Cinemax HD-IK-1627-OK
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:0,HBO 2
+http://191.52.214.5:8000/play/a06h/index.m3u8
+#EXTINF:0,HBO 2-CLARO-1634-OK
+http://191.52.214.5:8000/play/a05v/index.m3u8
+#EXTINF:0,HBO Family HD-IK-1630-OK
+http://191.52.214.5:8000/play/a03w/index.m3u8
+#EXTINF:0,HBO POP HD-IK1602
+http://191.52.214.5:8000/play/a01y/index.m3u8
+#EXTINF:0,HBO Plus
+http://191.52.214.5:8000/play/a06i/index.m3u8
+#EXTINF:0,HBO Plus-Claro-1635-OK
+http://191.52.214.5:8000/play/a05w/index.m3u8
+#EXTINF:0,HBO XTREME HD
+http://191.52.214.5:8000/play/a03x/index.m3u8
+#EXTINF:0,HBO XTREME SD
+http://191.52.214.5:8000/play/a06j/index.m3u8
+#EXTINF:0,Paramount HD-IK-1619-OK
+http://191.52.214.5:8000/play/a032/index.m3u8
+#EXTINF:0,STAR CHANNEL HD
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:0,Space HD-IK-1626-OK
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:0,TNT HD-IK1608
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:0,TNT Series HD-IK-1618-OK
+http://191.52.214.5:8000/play/a059/index.m3u8
+#EXTINF:0,Universal Cinema SD
+http://191.52.214.5:8000/play/a06l/index.m3u8
+#EXTINF:0,Universal Comedy SD
+http://191.52.214.5:8000/play/a06m/index.m3u8
+#EXTINF:0,Universal Premiere SD
+http://191.52.214.5:8000/play/a06k/index.m3u8
+#EXTINF:0,Veplus
+http://191.52.214.5:8000/play/a06e/index.m3u8
+#EXTINF:0,WILLAX-OSC-8010
+http://191.52.214.5:8000/play/a040/index.m3u8
+#EXTINF:8,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
+#EXTINF:0,Golden Edge
+http://190.95.220.212:8000/play/a01k/index.m3u8
+#EXTINF:0,Studio Universal
+http://190.95.220.212:8000/play/a02x/index.m3u8
 #EXTINF:0,Space
-http://181.78.85.154:2022/play/a00v/index.m3u8
-#EXTINF:0,Studio Universal HD
-http://181.78.85.154:2022/play/a05o/index.m3u8
+http://190.95.220.212:8000/play/a02y/index.m3u8
 #EXTINF:0,SyFy
-http://181.78.85.154:2022/play/a027/index.m3u8
-#EXTINF:0,TLC
-http://181.78.85.154:2022/play/a03b/index.m3u8
-#EXTINF:0,TNT
-http://181.78.85.154:2022/play/a023/index.m3u8
-#EXTINF:0,Universal
-http://181.78.85.154:2022/play/a01y/index.m3u8
-#EXTINF:0,ViaX
-http://181.78.85.154:2022/play/a031/index.m3u8
-#EXTINF:0,Warner
-http://181.78.85.154:2022/play/a035/index.m3u8
-#EXTINF:0,Zoom
-http://181.78.85.154:2022/play/a044/index.m3u8
-#EXTINF:8,Animal Planet
-http://181.78.85.154:2022/play/a034/index.m3u8
-#EXTINF:0,Animal Planet HD
-http://181.78.85.154:2022/play/a05r/index.m3u8
-#EXTINF:0,Discovery Channel
-http://181.78.85.154:2022/play/a05d/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:0,HomeandHealth
-http://181.78.85.154:2022/play/a01d/index.m3u8
-#EXTINF:0,Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:0,Discovery ID
-http://181.78.85.154:2022/play/a01a/index.m3u8
-#EXTINF:0,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:8,Discovery Turbo
-http://181.78.85.154:2022/play/a014/index.m3u8
+http://190.95.220.212:8000/play/a02a/index.m3u8
+#EXTINF:0,History Channel HD-IK1604
+http://191.52.214.5:8000/play/a01r/index.m3u8
+#EXTINF:0,Discovery Science
+http://190.95.220.212:8000/play/a01x/index.m3u8
+#EXTINF:0,Animal Planet
+http://190.95.220.212:8000/play/a02f/index.m3u8
+#EXTINF:0,Discovery Turbo
+http://190.95.220.212:8000/play/a02t/index.m3u8
+#EXTINF:8,Discovery Channel
+http://190.95.220.212:8000/play/a02g/index.m3u8
+#EXTINF:0,National Geographic
+http://190.95.220.212:8000/play/a022/index.m3u8
+#EXTINF:8,Discovery H&H HD-IKS-1602-OK
+http://191.52.214.5:8000/play/a02i/index.m3u8
+#EXTINF:0,Discovery ID-OSC-8011
+http://191.52.214.5:8000/play/a048/index.m3u8
+#EXTINF:0,Discovery Theater HD-IK1609-OK
+http://191.52.214.5:8000/play/a02j/index.m3u8
 #EXTINF:8,Discovery World HD
-http://181.78.85.154:2022/play/a05h/index.m3u8
-#EXTINF:0,DISCOVERY THEATHER HD
-#EXTVLCOPT:network-caching=1000
-http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:0,History Channel
-http://181.78.85.154:2022/play/a01w/index.m3u8
-#EXTINF:0,Nat Geo
-http://181.78.85.154:2022/play/a01v/index.m3u8
-#EXTINF:0,Nat Geo HD
-http://181.78.85.154:2022/play/a05g/index.m3u8
+http://191.52.214.5:8000/play/a02v/index.m3u8
+#EXTINF:0,HomeandH-OSC-8020
+http://191.52.214.5:8000/play/a04l/index.m3u8
+#EXTINF:0,Nat Geo HD-IKS-1606-OK
+http://191.52.214.5:8000/play/a02u/index.m3u8
