@@ -4,12 +4,10 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:62, Canal 5
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
+#EXTINF:-1,TP-TUDN
+http://187.154.156.21:8000/play/a00x
+#EXTINF:-1,TP04-CANAL 5
+http://187.154.156.21:8000/play/a018
 #EXTINF:0, 4 GDL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
