@@ -266,11 +266,9 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=976569979&_cdn_timestamp=1689912004&_cdn_token=95c674d9d2b27e9f1fe4f44c7dee8f5e02c1cc42
-#EXTINF:8, 255 | TUDN
+#EXTINF:8, TUDN MX
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://181.78.105.146:2000/play/a08j/index.m3u8
+http://181.189.243.217:8000/play/a0ud/index.m3u8
 #EXTINF:0,AQUI EMPIEZA EL CAOS
 AQUI%20EMPIEZA%20EL%20CAOS
 #EXTINF:8,A&E HD-IK-1605-OK
