@@ -337,12 +337,16 @@ http://190.95.220.212:8000/play/a02f/index.m3u8
 http://190.95.220.212:8000/play/a02t/index.m3u8
 #EXTINF:8,Discovery Channel
 http://190.95.220.212:8000/play/a02g/index.m3u8
+#EXTINF:-1,Discovery HD
+http://45.189.148.24:8000/play/a003/index.m3u8
 #EXTINF:0,National Geographic
 http://190.95.220.212:8000/play/a022/index.m3u8
 #EXTINF:8,Discovery H&H HD-IKS-1602-OK
 http://191.52.214.5:8000/play/a02i/index.m3u8
-#EXTINF:0,Discovery ID-OSC-8011
-http://191.52.214.5:8000/play/a048/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://45.189.148.24:8000/play/a002/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://45.190.187.226:58092/play/a012
 #EXTINF:0,Discovery Theater HD-IK1609-OK
 http://191.52.214.5:8000/play/a02j/index.m3u8
 #EXTINF:8,Discovery World HD
