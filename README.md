@@ -301,8 +301,8 @@ http://191.52.214.5:8000/play/a06j/index.m3u8
 http://191.52.214.5:8000/play/a032/index.m3u8
 #EXTINF:0,STAR CHANNEL HD
 http://191.52.214.5:8000/play/a02k/index.m3u8
-#EXTINF:0,Space HD-IK-1626-OK
-http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1,Space HD
+http://200.4.217.20:8000/play/a008/index.m3u8
 #EXTINF:0,TNT HD-IK1608
 http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:0,TNT Series HD-IK-1618-OK
@@ -323,8 +323,8 @@ http://191.52.214.5:8000/play/a01u/index.m3u8
 http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTINF:0,Studio Universal
 http://190.95.220.212:8000/play/a02x/index.m3u8
-#EXTINF:0,Space
-http://190.95.220.212:8000/play/a02y/index.m3u8
+#EXTINF:-1,Space HD
+http://200.4.217.20:8000/play/a008/index.m3u8
 #EXTINF:0,SyFy
 http://190.95.220.212:8000/play/a02a/index.m3u8
 #EXTINF:0,History Channel HD-IK1604
