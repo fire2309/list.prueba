@@ -277,26 +277,16 @@ http://191.52.214.5:8000/play/a02x/index.m3u8
 http://191.52.214.5:8000/play/a035/index.m3u8
 #EXTINF:0,Animal Planet HD-IK1601-OK
 http://191.52.214.5:8000/play/a038/index.m3u8
-#EXTINF:0,Cinema Platino HD
-http://191.52.214.5:8000/play/a064/index.m3u8
 #EXTINF:0,Cinemax HD-IK-1627-OK
 http://191.52.214.5:8000/play/a02a/index.m3u8
-#EXTINF:0,HBO 2
-http://191.52.214.5:8000/play/a06h/index.m3u8
-#EXTINF:0,HBO 2-CLARO-1634-OK
-http://191.52.214.5:8000/play/a05v/index.m3u8
 #EXTINF:0,HBO Family HD-IK-1630-OK
 http://191.52.214.5:8000/play/a03w/index.m3u8
 #EXTINF:0,HBO POP HD-IK1602
 http://191.52.214.5:8000/play/a01y/index.m3u8
 #EXTINF:0,HBO Plus
 http://191.52.214.5:8000/play/a06i/index.m3u8
-#EXTINF:0,HBO Plus-Claro-1635-OK
-http://191.52.214.5:8000/play/a05w/index.m3u8
 #EXTINF:0,HBO XTREME HD
 http://191.52.214.5:8000/play/a03x/index.m3u8
-#EXTINF:0,HBO XTREME SD
-http://191.52.214.5:8000/play/a06j/index.m3u8
 #EXTINF:0,Paramount HD-IK-1619-OK
 http://191.52.214.5:8000/play/a032/index.m3u8
 #EXTINF:0,STAR CHANNEL HD
@@ -307,16 +297,6 @@ http://200.4.217.20:8000/play/a008/index.m3u8
 http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:0,TNT Series HD-IK-1618-OK
 http://191.52.214.5:8000/play/a059/index.m3u8
-#EXTINF:0,Universal Cinema SD
-http://191.52.214.5:8000/play/a06l/index.m3u8
-#EXTINF:0,Universal Comedy SD
-http://191.52.214.5:8000/play/a06m/index.m3u8
-#EXTINF:0,Universal Premiere SD
-http://191.52.214.5:8000/play/a06k/index.m3u8
-#EXTINF:0,Veplus
-http://191.52.214.5:8000/play/a06e/index.m3u8
-#EXTINF:0,WILLAX-OSC-8010
-http://191.52.214.5:8000/play/a040/index.m3u8
 #EXTINF:8,Warner Channel HD-IK1631-HD
 http://191.52.214.5:8000/play/a01u/index.m3u8
 #EXTINF:0,Golden Edge
