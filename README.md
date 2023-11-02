@@ -4,8 +4,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,TP-TUDN
-http://187.154.156.21:8000/play/a00x
+#EXTINF:-1,014 TUDN HD
+http://200.12.37.158:8001/play/14
 #EXTINF:-1,TP04-CANAL 5
 http://187.154.156.21:8000/play/a018
 #EXTINF:0, 4 GDL
