@@ -4,12 +4,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://181.209.173.10:9000/play/a05s/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://181.189.243.217:8000/play/a0ud/index.m3u8
+#EXTINF:-1,IP11.228 TUDN
+http://45.190.187.226:58093/play/a00g
 #EXTINF:-1,TP04-CANAL 5
 http://187.154.156.21:8000/play/a018
 #EXTINF:0, 4 GDL
