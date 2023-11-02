@@ -236,13 +236,13 @@ http://38.43.132.86:8000/play/a01b/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://38.43.132.86:8000/play/a01c/index.m3u8
 #EXTINF:-1,ESPN
-http://38.43.132.86:8000/play/a015/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://38.43.132.86:8000/play/a014/index.m3u8
+http://204.157.251.250:8000/play/a07o/index.m3u8
+#EXTINF:-1,ESPN 2
+http://204.157.251.250:8000/play/a07p/index.m3u8
 #EXTINF:-1,ESPN 3
 http://38.43.132.86:8000/play/a021/index.m3u8
 #EXTINF:-1,ESPN 4
-http://38.43.132.86:8000/play/a01o/index.m3u8
+http://204.157.251.250:8000/play/a08h/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
 http://38.43.132.86:8000/play/a02m/index.m3u8
 #EXTINF:-1,ESPN HD
