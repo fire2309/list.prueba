@@ -235,29 +235,18 @@ http://38.41.8.1:8000/play/a02z
 http://38.43.132.86:8000/play/a01b/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://38.43.132.86:8000/play/a01c/index.m3u8
-#EXTINF:0, 232 | ESPN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=976547011&_cdn_timestamp=1689911440&_cdn_token=3b99fadc37a87972e98f446d74e6815d04d8a75e
-#EXTINF:0, 233 | ESPN 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=976568547&_cdn_timestamp=1689911966&_cdn_token=cfbcca71357bc7d0abd9d0d8a61de56606cd4541
-#EXTINF:0, 234 | ESPN 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=976568899&_cdn_timestamp=1689911974&_cdn_token=9db0d583beb56c98fd6cb41a075b8912705d902f
-#EXTINF:0, 235 | ESPN 4
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=976569979&_cdn_timestamp=1689912004&_cdn_token=95c674d9d2b27e9f1fe4f44c7dee8f5e02c1cc42
-#EXTINF:8, TUDN MX
-#EXTVLCOPT:network-caching=1000
-http://181.189.243.217:8000/play/a0ud/index.m3u8
+#EXTINF:-1,ESPN
+http://38.43.132.86:8000/play/a015/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://38.43.132.86:8000/play/a014/index.m3u8
+#EXTINF:-1,ESPN 3
+http://38.43.132.86:8000/play/a021/index.m3u8
+#EXTINF:-1,ESPN 4
+http://38.43.132.86:8000/play/a01o/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://38.43.132.86:8000/play/a02m/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.43.132.86:8000/play/a028/index.m3u8
 #EXTINF:0,AQUI EMPIEZA EL CAOS
 AQUI%20EMPIEZA%20EL%20CAOS
 #EXTINF:8,A&E HD-IK-1605-OK
