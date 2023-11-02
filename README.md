@@ -229,11 +229,8 @@ http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://201.222.44.220:4227/play/a02v/index.m3u8
-#EXTINF:27, 229 | Fox Sports Premium
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://38.41.8.1:8000/play/a02z
 #EXTINF:-1,Fox Sports 2
 http://38.43.132.86:8000/play/a01b/index.m3u8
 #EXTINF:-1,Fox Sports 3
