@@ -234,16 +234,10 @@ http://201.222.44.220:4227/play/a02v/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0, 230 | Fox Sports 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=976546187&_cdn_timestamp=1689911413&_cdn_token=8c2944ea21640c040805412e62cd8007cab96d05
-#EXTINF:0, 231 | Fox Sports 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=976546499&_cdn_timestamp=1689911420&_cdn_token=a64c9164306edc0f8cee32e68fe9a91d7645771d
+#EXTINF:-1,Fox Sports 2
+http://38.43.132.86:8000/play/a01b/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://38.43.132.86:8000/play/a01c/index.m3u8
 #EXTINF:0, 232 | ESPN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
