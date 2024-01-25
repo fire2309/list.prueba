@@ -309,6 +309,26 @@ http://45.189.148.24:8000/play/a002/index.m3u8
 http://45.190.187.226:58092/play/a012
 #EXTINF:0,Discovery Theater HD-IK1609-OK
 http://191.52.214.5:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Bics", TUDN
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25101
+#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1  group-title="Bics Extra", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+
+
+#EXTINF:-1  group-title="Bics Extra", TUDN US
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/19700
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS PREMIUM SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/47457
 #EXTINF:8,Discovery World HD
 http://191.52.214.5:8000/play/a02v/index.m3u8
 #EXTINF:0,HomeandH-OSC-8020
