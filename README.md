@@ -309,5 +309,15 @@ http://45.189.148.24:8000/play/a002/index.m3u8
 http://45.190.187.226:58092/play/a012
 #EXTINF:0,Discovery Theater HD-IK1609-OK
 http://191.52.214.5:8000/play/a02j/index.m3u8
-#EXTINF:0, FOX SPORTS PREMIUM SD
+#EXTINF:-1  group-title="Bics Extra", TUDN US
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/19700
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS PREMIUM SD
 http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/47457
+#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100889
+#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 2 SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100890
+#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 3 SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29504
+#EXTINF:-1  group-title="Bics Extra", MX | TUDN SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/19700
